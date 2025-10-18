@@ -1,0 +1,3 @@
+Java ;Yarin proje yap;false;2025-10-18
+Sql;sql basla yarin ;false;2025-10-18
+Hüseyinin Görevi;Abiduk gubidik;false;2025-10-18
